@@ -18,7 +18,7 @@ const Hero = () => {
             </p>
             <div className="flex md:flex-row flex-col justify-start gap-4">
               <Link
-                href="#love-section"
+                href="#message"
                 className="text-xl w-fit h-fit md:w-auto font-medium whitespace-nowrap rounded-full text-white py-5 px-6 bg-primary hover:text-primary border border-primary hover:bg-transparent"
               >
                 Message
