@@ -21,7 +21,7 @@ const Hero = () => {
                 href="#love-section"
                 className="text-xl w-fit h-fit md:w-auto font-medium whitespace-nowrap rounded-full text-white py-5 px-6 bg-primary hover:text-primary border border-primary hover:bg-transparent"
               >
-                Love Letter
+                Message
               </Link>
               <Link
                 href="#about-section"
@@ -36,7 +36,7 @@ const Hero = () => {
             <Image
               src="/images/gallery/img1.jpeg"
               alt="nothing"
-              width={500}
+              width={450}
               height={205}
               className="object-fit rounded-xl"
             />

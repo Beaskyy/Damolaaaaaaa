@@ -11,7 +11,7 @@ const Footer: FC = () => {
         <div className="flex md:flex-row flex-col justify-between md:items-center lg:gap-20 md:gap-6 sm:gap-12 gap-6  pb-16">
           <div className="">
             <Logo />
-            <h1>💫 Happy Birthday, My Love!</h1>
+            <h1>💫 Happy Birthday, Damolaaaaaaaa!</h1>
             <p className="text-xs font-medium text-grey dark:text-white/50 mt-5 max-w-70%">
             You deserve the world and more! I hope this small gesture brings a smile to your face. 💕
             </p>

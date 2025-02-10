@@ -31,10 +31,9 @@ const Newsletter = () => {
                   onClose={() => setIsModalOpen(false)}
                 >
                   <p className="mt-2 text-gray-900  text-2xl font-medium">
-                    Damolaaaaaa, I love you more than words can say. Every day
-                    with you is a blessing, and I can’t wait to create a
-                    lifetime of memories with you. You are my heart, my
-                    happiness, and my forever. 💖
+                    Damolaaaaaa, Thank you so much for everything, you are so
+                    kind and lovely. Keep being who you are and strive to be
+                    better 💖
                   </p>
                 </CustomModal>
               </div>
