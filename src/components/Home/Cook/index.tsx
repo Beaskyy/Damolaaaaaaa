@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Cook = () => {
   return (
-    <section className="relative" id="love-section">
+    <section className="relative" id="message">
       <div className="container mx-auto lg:max-w-screen-xl md:max-w-screen-md">
         <div className="absolute right-0 -bottom-20 hidden lg:block">
           <Image
